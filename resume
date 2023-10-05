@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Resume</h1>
+<p>Name: Dinzi carl m Bendian</p>
+<p>Address: 131 middle rock quarry baguio city </p>
+<p>Email: bdinziclouds@gmail.com</p>
+<p>Phone Number: 09615925249</p>
+
+<h2>Education</h2>
+<p>Elementary: Emilio Aguinaldo Elementary school Baguio City</p>
+<p>Highschool: Baguio city national high school</p>
+<p>College: University of the Cordilleras - Bachelor of Science in Information Technology, Major in Web Technology</p>
+
+<h2>Skills</h2>
+<p>Communication</p>
+<p>Team Work</p>
+<h3>Programming Languages:</h3>
+<ol>
+<p>Python</p>
+<p>Java</p>
+<p>HTML</p>
+<p>CSS</p>
+</ol>
+
+<h2>Interest</h2>
+<ol>
+<p>Video Games</p>
+<p>Traveling</p>
+<p>Mix Martial Arts</p>
+<p>Singing</p>
+</ol>
+
+
+</body>
+</html>
